@@ -1,5 +1,6 @@
 010.at
 072.sh
+0bs.de
 0xy.me
 1bitspace.com
 1l1.su
@@ -9,6 +10,7 @@
 1url.it
 233.be
 2cm.es
+2h.ae
 301.nz
 3ind.com
 3w.pm
@@ -16,8 +18,11 @@
 42url.com
 4ton.com
 4x.si
+531566.xyz
+669988.xyz
 6c.gs
 6g6.eu
+7894.xyz
 7i.se
 7oi.de
 7x.qa
@@ -33,6 +38,7 @@ abit.ly
 acg.kr
 adurly.cc
 ady.to
+ai6.net
 alias.live
 alturl.link
 amz.run
@@ -55,9 +61,12 @@ beurl.app
 binb.me
 biolynx.net
 bitfy.cc
+bitly.lc
 bitshrt.com
 biturl.top
+blnk.in
 blomlink.com
+bofh.us
 bpl.kr
 br4.in
 brilink.me
